@@ -1,0 +1,8 @@
+You ordered: 2 units of Burgers from MacDoodles @ 8.99 ea on Mon Feb 26 23:50:10 2018
+You ordered: 5 units of Fries from MacDoodles @ 2.19 ea on Mon Feb 26 23:50:20 2018
+You ordered: 1 units of Ships from Eververse_Trading_Co @ 2200.00 ea on Mon Feb 26 23:50:23 2018
+You ordered: 1 units of Tshirts from Tommy_Tutone_Fan_Club @ 24.99 ea on Mon Feb 26 23:50:27 2018
+
+
+ order finalized by Tyler. 
+ Your Total for this order is: 2253.92

@@ -1,0 +1,6 @@
+Supplier_ID Company_Name Company_State Phone_Number Website_Address
+721656	MacDoodles	Mississippi	662-237-8016	https://macdoodles.com
+475245	Dunder_Mifflin	Pennsylvania	213-570-4649	https://www.dundermifflin.us
+684592	Tommy_Tutone_Fan_Club	California	707-867-5309	https://tutonefans.com
+547621	Oregon_TP_Co	Oregon	541-897-6703	https://oregontoiletpaper.org
+234098	Eververse_Trading_Co	Washington	425-440-6800	https://eververselootcrates.com

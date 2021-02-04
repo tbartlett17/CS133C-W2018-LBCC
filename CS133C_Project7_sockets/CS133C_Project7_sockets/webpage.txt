@@ -1,0 +1,8 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.amazon.com/
+Date: Mon, 19 Mar 2018 01:46:12 GMT
+Connection: close
+
+Xnè
